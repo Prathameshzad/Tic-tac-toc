@@ -48,3 +48,23 @@ body{
     border-radius: 1rem;
     color: white;
 }
+#newBtn{
+    padding: 1rem;
+    font-size: 1.2rem;
+    background: #3a3335;
+    border: none;
+    border-radius: 1rem;
+    color: white;
+}
+
+#msg{
+    color: #3a3335;
+    font-size: 8vmin;
+}
+
+.ms-container{
+    height: 30vmin;
+}
+.hide{
+    display: none;
+}
